@@ -67,4 +67,6 @@ python3 run_GUI.py
 
 建议先选择`所有`，确定是否有输出后，再按照鼠标按键进行分类查看。
 
+建议使用`一键保存全部`，会弹出所有8张图片，可供挑选。
+
 ![mouse](README.assets/mouse.gif)
