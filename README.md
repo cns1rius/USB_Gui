@@ -1,5 +1,7 @@
 # USB_Gui
 
+> 本项目二开自@Mumuzi7179 [UsbKeyboard_Mouse_Hacker_Gui](https://github.com/Mumuzi7179/UsbKeyboard_Mouse_Hacker_Gui)
+
 > 本工具作用为对CTF中常见的键盘流量与鼠标流量进行解密，采用GUI的形式方便使用
 
 > 注意：在使用时当前目录需存在tshark.exe文件，若使用者电脑环境内自带tshark，可将代码中的tshark.exe修改为tshark
